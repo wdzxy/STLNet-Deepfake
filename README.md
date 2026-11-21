@@ -1,3 +1,6 @@
+# STLNet-Deepfake-Detection
+Official PyTorch implementation of STLNet for lightweight and texture-aware face forgery detection.
+
 # STLNet: Shallow Texture-Enhanced Lightweight Network for Face Forgery Detection
 
 This repository provides the official PyTorch implementation of STLNet,
